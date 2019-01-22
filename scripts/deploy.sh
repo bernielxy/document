@@ -3,4 +3,4 @@ chmod 600 travis_rsa
 ls travis_rsa
 ls -l
 
-rsync -avz -e "ssh -o 'StrictHostKeyChecking no' -i travis_rsa" raneto/content ubuntu@118.24.211.230:/home/ubuntu/workplace/raneto/Raneto/example/content
+rsync -avz -e "ssh -o 'StrictHostKeyChecking no' -i travis_rsa" raneto/content/ ubuntu@118.24.211.230:/home/ubuntu/workplace/raneto/Raneto/example/
