@@ -22,3 +22,8 @@ Raneto also features:
 * [Highlight.js](http://highlightjs.org) code syntax highlighting
 * Full-text search powered by [Lunr](http://lunrjs.com)
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+
+Maybe this is a lie!~
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc3Mjk0MjQ1NF19
+-->
